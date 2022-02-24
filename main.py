@@ -80,8 +80,8 @@ while True:
     pixels.show()
     time.sleep(1)
 
-    pixels[0] = (255,255,0,0)
-    pixels[1] = (0,0,0,255)
+    pixels[1] = (255,255,0,0)
+    pixels[0] = (0,0,0,255)
     pixels.show()
     time.sleep(1)
 
