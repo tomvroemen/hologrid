@@ -80,4 +80,8 @@ while True:
     pixels.show()
     time.sleep(1)
 
-    rainbow_cycle(0.002)  # rainbow cycle with 1ms delay per step
+    rainbow_cycle(0.005)  # rainbow cycle with 1ms delay per step
+    rainbow_cycle(0.005)
+    rainbow_cycle(0.005)
+    rainbow_cycle(0.005)
+    rainbow_cycle(0.005)
